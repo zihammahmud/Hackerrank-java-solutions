@@ -1,2 +1,2 @@
-# Hackerrank-java-solutions
-My daily Java solutions for HackerRank lab tasks
+# Hackerrank-problem-solutions
+My daily  solutions for HackerRank problem for my academic lab tasks
