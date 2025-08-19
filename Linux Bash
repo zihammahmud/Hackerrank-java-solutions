@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Read a single character from standard input
+read -r char
+
+# Check the character and print the appropriate response
+if [[ "$char" == "Y" || "$char" == "y" ]]; then
+  echo "YES"
+else
+  echo "NO"
+fi
