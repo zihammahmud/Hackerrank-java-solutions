@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+read expression
+# Use bc for evaluation and printf for formatted output
+printf "%.3f\n" "$(echo "$expression" | bc -l)"
